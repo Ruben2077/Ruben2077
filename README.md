@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a system and networks administrator based in Barcelona, passionate about cybersecurity and cloud (Azure). <br>Welcome to my GitHub repository where I share various cybersecurity projects and tools that I've developed or contributed to.</p>
+<p align="left">I'm a system and networks administrator based in Barcelona, passionate about cybersecurity and cloud (Azure). <br>Welcome to my GitHub repository where I share various cybersecurity projects and tools that I've developed or contributed to. I also write up CTF (Capture The Flag) challenges from different platforms.</p>
 
 ###
 
