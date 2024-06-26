@@ -12,7 +12,9 @@
 
 <ul>
   <li>🔭 I’m currently working as a system and networks administrator, ensuring smooth operations and security across systems.</li>
+  
   <li>🌱 I’m continuously learning and exploring new technologies in cybersecurity to stay updated with the latest trends.</li> 
+  
   <li>💬 Ask me about network security, system administration, and cybersecurity best practices.</li>
 </ul>
 
