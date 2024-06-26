@@ -10,9 +10,15 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as a system and networks administrator, ensuring smooth operations and security across systems.<br>🌱 I’m continuously learning and exploring new technologies in cybersecurity to stay updated with the latest trends.<br>💬 Ask me about network security, system administration, and cybersecurity best practices.<br><br>📫 How to reach me:</p>
+<ul>
+  <li>🔭 I’m currently working as a system and networks administrator, ensuring smooth operations and security across systems.</li>
+  <li>🌱 I’m continuously learning and exploring new technologies in cybersecurity to stay updated with the latest trends.</li> 
+  <li>💬 Ask me about network security, system administration, and cybersecurity best practices.</li>
+</ul>
 
 ###
+
+<h2 align="left">📫 How to reach me:</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ruben-gluque?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEpG5GL9ER4qtQuGSrmxduQ%3D%3D" target="_blank">
